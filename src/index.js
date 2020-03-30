@@ -16,7 +16,7 @@ function Reddit() {
 
   return (
     <div>
-``      <h1>/r/reactjs asdfsaf</h1>
+``      <h1>/r/reactjs</h1>
       <ul>
         {/* map funtion loops over the posts and returns an <li> for each item in the array */}
         {posts.map(post => (
